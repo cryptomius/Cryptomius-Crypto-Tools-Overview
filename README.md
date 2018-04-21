@@ -9,6 +9,12 @@ This javascript bookmarklet scrapes the [CoinMarketCap.com](http://www.coinmarke
 
 Link: [TradingView watchlist creator on GitHub.com](https://github.com/cryptomius/cmc100)
 
+## [Bitfinex Auto-Stop (Node JS)](https://github.com/cryptomius/Bitfinex-Auto-Stop)
+
+This script waits for your specified entry price then automatically protects your position with a stop order.
+
+Link: [Bitfinex Auto-Stop (Node JS) on GitHub.com](https://github.com/cryptomius/Bitfinex-Auto-Stop)
+
 # TradingView indicators
 
 ### 'Crypto Cradle' trading strategy
