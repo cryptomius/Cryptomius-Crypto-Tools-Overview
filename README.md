@@ -1,5 +1,5 @@
-# Cryptomius Crypto Tools
-Thanks for visiting my crypto tools directory. If you find these helpful please feel free to tip! :-)
+# Crypto Tools by [@Cryptomius](https://twitter.com/cryptomius) 
+Thanks for visiting my crypto tools directory. If you find these helpful please [feel free to tip](#tips)! :-)
 
 ## [TradingView watchlist creator](https://github.com/cryptomius/cmc100)
 
@@ -40,7 +40,7 @@ This script looks at times where MACD is within a specified range (very close to
 Link: [Explosive Potential on TradingView.com](https://www.tradingview.com/script/rwBArbXJ-Explosive-Potential/)
 
 ---
-*Have you found my work helpful? Feel free to send me a tip! :-)*
+<a name="tips"></a>*Have you found my work helpful? Feel free to send me a tip! :-)*
 
 **BTC**: 1GdpCvpiK6e5N5u89Dq21jJcqfzJ48zAy2  
 **ETH & ERC20**: 0x13098ad7ac788e0bcd3ed38f04003c0df90ebbc9  
