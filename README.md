@@ -19,6 +19,8 @@ His '[Crypto Cradle](https://www.tradercobb.com/packages/ref/76/)' and '[Bitcoin
 
 Below are scripts I've written to assist in identifying and automating (alerting) potential trades.
 
+<kbd>![Cradle TradingView](https://s3.tradingview.com/c/cNHOAIDP_mid.png)</kbd>
+
 ## [Crypto Cradle](https://www.tradingview.com/script/NqzFpfex-Crypto-Cradle-trigger/)
 
 This indicator highlights candles that meet many of the criteria required to take a short/long position. More detail is on the indicator description page.
@@ -36,6 +38,8 @@ Link: [Crypto Cradle Trade Assistant on TradingView.com](https://www.tradingview
 ## [Explosive Potential](https://www.tradingview.com/script/rwBArbXJ-Explosive-Potential/)
 
 This script looks at times where MACD is within a specified range (very close to 0 values) and price action is very constrained (under 1-5% depending on the coin). Historically price has made a strong move after these conditions.
+
+<kbd>![Explosive Potential](https://s3.tradingview.com/r/rwBArbXJ_mid.png)</kbd>
 
 Link: [Explosive Potential on TradingView.com](https://www.tradingview.com/script/rwBArbXJ-Explosive-Potential/)
 
