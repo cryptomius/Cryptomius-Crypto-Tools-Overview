@@ -9,6 +9,13 @@ This javascript bookmarklet scrapes the [CoinMarketCap.com](http://www.coinmarke
 
 Link: [TradingView watchlist creator on GitHub.com](https://github.com/cryptomius/cmc100)
 
+## [Bitfinex TradingView watchlist creator](https://github.com/cryptomius/Bitfinex-TradingView-Watchlist)
+
+Need to import the latest Bitfinex pairs into TradingView? 
+This javascript bookmarklet extracts all exchange or margin tradeable pairs from Bitfinex and saves them as a watchlist file you can import into TradingView.
+
+Link: [Bitfinex TradingView watchlist creator on GitHub.com](https://github.com/cryptomius/Bitfinex-TradingView-Watchlist)
+
 ## [Bitfinex Auto-Stop (Node JS)](https://github.com/cryptomius/Bitfinex-Auto-Stop)
 
 This script waits for your specified entry price, enters a trade position, then automatically protects the position with a stop order.
