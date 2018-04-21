@@ -9,7 +9,7 @@ This javascript bookmarklet scrapes the [CoinMarketCap.com](http://www.coinmarke
 
 Link: [TradingView watchlist creator on GitHub.com](https://github.com/cryptomius/cmc100)
 
-#TradingView indicators
+# TradingView indicators
 
 ### 'Crypto Cradle' trading strategy
 
