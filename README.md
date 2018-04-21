@@ -11,7 +11,7 @@ Link: [TradingView watchlist creator on GitHub.com](https://github.com/cryptomiu
 
 ## [Bitfinex Auto-Stop (Node JS)](https://github.com/cryptomius/Bitfinex-Auto-Stop)
 
-This script waits for your specified entry price then automatically protects your position with a stop order.
+This script waits for your specified entry price, enters a trade position, then automatically protects the position with a stop order.
 
 Link: [Bitfinex Auto-Stop (Node JS) on GitHub.com](https://github.com/cryptomius/Bitfinex-Auto-Stop)
 
