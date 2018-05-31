@@ -54,9 +54,14 @@ Link: [Crypto Cradle Trade Assistant on TradingView.com](https://www.tradingview
 
 ## More indicators
 
+## [Linear Levels](https://www.tradingview.com/script/6zrmtVer-Linear-Levels/)
+
+This indicator allows you to place linear levels on your chart to help plan your trades.
+
+
 ## [Explosive Potential](https://www.tradingview.com/script/rwBArbXJ-Explosive-Potential/)
 
-This script looks at times where MACD is within a specified range (very close to 0 values) and price action is very constrained (under 1-5% depending on the coin). Historically price has made a strong move after these conditions.
+This indicator looks at times where MACD is within a specified range (very close to 0 values) and price action is very constrained (under 1-5% depending on the coin). Historically price has made a strong move after these conditions.
 
 <kbd>![Explosive Potential](https://s3.tradingview.com/r/rwBArbXJ_mid.png)</kbd>
 
