@@ -22,6 +22,12 @@ This script waits for your specified entry price, enters a trade position, then 
 
 Link: [Bitfinex Auto-Stop (Node JS) on GitHub.com](https://github.com/cryptomius/Bitfinex-Auto-Stop)
 
+## [Bitfinex Auto-Stop & Target (Node JS)](https://github.com/cryptomius/Bitfinex-oco)
+
+This script waits for your specified entry price (limit, stop, market order), enters the trade position, then automatically protects the position with a stop order and target for 100% to close the position when your stop or target are hit.
+
+Link: [Bitfinex Auto-Stop (Node JS) on GitHub.com](https://github.com/cryptomius/Bitfinex-oco)
+
 ## [Bitfinex Auto-Stop with 1:1 Scale-out (Node JS)](https://github.com/cryptomius/Bitfinex-Auto-Stop-121-Scale-Out)
 
 This script waits for your specified entry price, enters a trade position, then automatically protects your position with a stop order and 1:1 scale-out order.
