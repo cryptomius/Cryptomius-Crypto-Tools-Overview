@@ -64,7 +64,7 @@ Link: [Crypto Cradle Trade Assistant on TradingView.com](https://www.tradingview
 
 This indicator allows you to place linear levels on your chart to help plan your trades.
 
-<kbd>![Linear Levels](https://pbs.twimg.com/card_img/1002022959005945857/o2WQLRUQ?format=jpg&name=600x314)</kbd>
+<kbd>![Linear Levels](https://s3.tradingview.com/6/6zrmtVer_mid.png)</kbd>
 
 
 ## [Explosive Potential](https://www.tradingview.com/script/rwBArbXJ-Explosive-Potential/)
