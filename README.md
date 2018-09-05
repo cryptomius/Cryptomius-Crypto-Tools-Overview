@@ -1,13 +1,22 @@
 # Crypto Tools by [@Cryptomius](https://twitter.com/cryptomius) 
 Thanks for visiting my crypto tools directory. If you find these helpful please [feel free to tip](#tips)! :-)
 
-## [TradingView watchlist creator](https://github.com/cryptomius/cmc100)
+
+## [TradingView watchlist creator (TradingView)](https://github.com/cryptomius/cmc100)
+
+Need to build a watchlist in TradingView with the top 100 coins/tokens paired against USD or BTC?
+
+This javascript bookmarklet scrapes the [TradingView.com](http://www.tradingview.com) website for coin/token symbols and combines them with your favourite pairings.
+
+Link: [TradingView watchlist creator (TradingView) on GitHub.com](https://github.com/cryptomius/tradingview-top-100)
+
+## [TradingView watchlist creator (CoinMarketCap)](https://github.com/cryptomius/cmc100)
 
 Need to build a watchlist in TradingView with the top 100 coins/tokens paired against USD, USDT, BTC, ETH (and others)?
 
 This javascript bookmarklet scrapes the [CoinMarketCap.com](http://www.coinmarketcap.com) website for coin/token symbols and combines them with your favourite pairings.
 
-Link: [TradingView watchlist creator on GitHub.com](https://github.com/cryptomius/cmc100)
+Link: [TradingView watchlist creator (CoinMarketCap) on GitHub.com](https://github.com/cryptomius/cmc100)
 
 ## [Bitfinex TradingView watchlist creator](https://github.com/cryptomius/Bitfinex-TradingView-Watchlist)
 
