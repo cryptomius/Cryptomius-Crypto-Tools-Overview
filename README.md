@@ -2,7 +2,7 @@
 Thanks for visiting my crypto tools directory. If you find these helpful please [feel free to tip](#tips)! :-)
 
 
-## [TradingView watchlist creator (TradingView)](https://github.com/cryptomius/cmc100)
+## [TradingView watchlist creator (TradingView)](https://github.com/cryptomius/tradingview-top-100)
 
 Need to build a watchlist in TradingView with the top 100 coins/tokens paired against USD or BTC?
 
