@@ -49,7 +49,7 @@ Link: [Bitfinex Auto-Stop with 1:1 Scale-out on GitHub.com](https://github.com/c
 
 My trading success has been largely due to self-discipline and strategies taught by [@TraderCobb](https://twitter.com/TraderCobb) 
 
-His '[Crypto Cradle](https://www.tradercobb.com/packages/ref/76/)' and '[Bitcoin Breakout](https://www.tradercobb.com/packages/ref/76/)' courses set the foundation for consistent trading success. 
+His '[Crypto Cradle](https://tinyurl.com/cobb-courses-2019)' and '[Bitcoin Breakout](https://tinyurl.com/cobb-courses-2019)' courses set the foundation for consistent trading success. 
 
 Below are scripts I've written to assist in identifying and automating (alerting) potential trades.
 
@@ -63,7 +63,7 @@ Link: [Crypto Cradle Trigger on TradingView.com](https://www.tradingview.com/scr
 
 ## [Crypto Cradle Trade Assistant](https://www.tradingview.com/script/cNHOAIDP-Crypto-Cradle-Trade-Assistant/)
 
-This is an assistant indicator to help you work out your entry price, trade amount, stop price, 1:1 scale-out price, and potential profit based on using the [Crypto Cradle](https://www.tradercobb.com/packages/ref/76/) strategy
+This is an assistant indicator to help you work out your entry price, trade amount, stop price, 1:1 scale-out price, and potential profit based on using the [Crypto Cradle](https://tinyurl.com/cobb-courses-2019) strategy
 
 Link: [Crypto Cradle Trade Assistant on TradingView.com](https://www.tradingview.com/script/cNHOAIDP-Crypto-Cradle-Trade-Assistant/)
 
